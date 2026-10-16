@@ -4,12 +4,7 @@
 
 ## 发布到 GitHub Pages
 
-这个仓库已经包含编译好的网页，首次发布无需安装开发工具：
-
-1. 打开仓库 **Settings → Pages**。
-2. Source 选择 **Deploy from a branch**。
-3. Branch 选择 **main**，目录选择 **/ (root)**，点击 **Save**。
-4. 等待 GitHub 的 Pages 部署完成，访问 <https://blahorse.github.io/UESTC_Canteen/>。
+访问 <https://blahorse.github.io/UESTC_Canteen/>。
 
 访客不需要 GitHub 账号。GitHub Pages 在各地区的网络可达性取决于实际网络条件，此部署不保证中国大陆全部运营商始终可用。
 
