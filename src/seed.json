@@ -1,0 +1,962 @@
+[
+  {
+    "id": "sheet-1",
+    "name": "银桦餐厅",
+    "dish": "",
+    "address": "校方大大",
+    "originalType": "食堂",
+    "category": "校园食堂",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-2",
+    "name": "紫荆餐厅",
+    "dish": "",
+    "address": "校方大大",
+    "originalType": "食堂",
+    "category": "校园食堂",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-3",
+    "name": "芙蓉餐厅",
+    "dish": "",
+    "address": "校方大大",
+    "originalType": "食堂",
+    "category": "校园食堂",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-4",
+    "name": "朝阳餐厅",
+    "dish": "",
+    "address": "校方大大",
+    "originalType": "食堂",
+    "category": "校园食堂",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-5",
+    "name": "学子餐厅",
+    "dish": "",
+    "address": "校方大大",
+    "originalType": "食堂",
+    "category": "校园食堂",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-6",
+    "name": "科创餐厅",
+    "dish": "",
+    "address": "校方大大",
+    "originalType": "食堂",
+    "category": "校园食堂",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-7",
+    "name": "桃园餐厅",
+    "dish": "",
+    "address": "校方大大",
+    "originalType": "食堂",
+    "category": "校园食堂",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-8",
+    "name": "麦当劳",
+    "dish": "不会出错",
+    "address": "商业街、龙湖时代天街",
+    "originalType": "快餐",
+    "category": "快餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-9",
+    "name": "肯德基",
+    "dish": "不会出错",
+    "address": "朝阳二楼、龙湖时代天街",
+    "originalType": "快餐",
+    "category": "快餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-10",
+    "name": "汉堡王",
+    "dish": "不会出错",
+    "address": "龙湖时代天街",
+    "originalType": "快餐",
+    "category": "快餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-11",
+    "name": "塔斯汀",
+    "dish": "不会出错",
+    "address": "龙湖时代天街、电科南门",
+    "originalType": "快餐",
+    "category": "快餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-12",
+    "name": "WIKI burger",
+    "dish": "招牌安格斯牛肉拌饭、夏威夷牛肉堡",
+    "address": "龙湖时代天街",
+    "originalType": "快餐",
+    "category": "快餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-13",
+    "name": "达美乐披萨",
+    "dish": "不会出错",
+    "address": "龙湖时代天街",
+    "originalType": "快餐",
+    "category": "快餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-15",
+    "name": "何三盔锅盔灌凉粉",
+    "dish": "三丝、凉粉、鸡丝锅盔",
+    "address": "龙湖时代天街",
+    "originalType": "粉",
+    "category": "面粉饺子",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-16",
+    "name": "李若桃酸奶",
+    "dish": "基本上都不赖",
+    "address": "龙湖时代天街",
+    "originalType": "饮品",
+    "category": "饮品酒水",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-18",
+    "name": "袁记云饺",
+    "dish": "玉米鲜肉、鲜虾蟹子云吞",
+    "address": "龙湖时代天街",
+    "originalType": "饺子",
+    "category": "面粉饺子",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-21",
+    "name": "太平张醪糟",
+    "dish": "冰醪糟、牛奶醪糟烧麦",
+    "address": "龙湖时代天街",
+    "originalType": "醪糟",
+    "category": "甜点小吃",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-22",
+    "name": "花雕醉鸡",
+    "dish": "花雕醉鸡(泡油条)",
+    "address": "龙湖时代天街",
+    "originalType": "鸡",
+    "category": "中餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-23",
+    "name": "京师傅北京烤鸭",
+    "dish": "烤鸭",
+    "address": "龙湖时代天街",
+    "originalType": "鸭",
+    "category": "中餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-25",
+    "name": "何板板",
+    "dish": "拌面",
+    "address": "龙湖时代天街",
+    "originalType": "面",
+    "category": "面粉饺子",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-26",
+    "name": "食其家",
+    "dish": "牛肉滑蛋",
+    "address": "龙湖时代天街",
+    "originalType": "中餐",
+    "category": "日韩料理",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-27",
+    "name": "好运猪咖喱饭",
+    "dish": "猪排咖喱饭",
+    "address": "龙湖时代天街",
+    "originalType": "中餐",
+    "category": "日韩料理",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-28",
+    "name": "彭友记粉铺",
+    "dish": "牛骨原汤肉酱粉",
+    "address": "龙湖时代天街",
+    "originalType": "粉",
+    "category": "面粉饺子",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-29",
+    "name": "川味小炒",
+    "dish": "炒菜",
+    "address": "龙湖时代天街",
+    "originalType": "中餐",
+    "category": "中餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-30",
+    "name": "老美牛排饭",
+    "dish": "老美牛排拼麻婆豆腐",
+    "address": "龙湖时代天街",
+    "originalType": "中餐",
+    "category": "中餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-31",
+    "name": "烤匠",
+    "dish": "烤鱼",
+    "address": "龙湖时代天街",
+    "originalType": "鱼",
+    "category": "中餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-32",
+    "name": "麦记牛奶",
+    "dish": "杨枝甘露冰豆花",
+    "address": "龙湖时代天街",
+    "originalType": "饮品",
+    "category": "饮品酒水",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-33",
+    "name": "天照小食堂",
+    "dish": "天照炒饭",
+    "address": "龙湖时代天街",
+    "originalType": "中餐",
+    "category": "日韩料理",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-34",
+    "name": "盐都干锅王",
+    "dish": "干锅",
+    "address": "电科南门",
+    "originalType": "干锅",
+    "category": "火锅干锅",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-36",
+    "name": "茉酸奶",
+    "dish": "火龙果酸奶奶昔",
+    "address": "龙湖时代天街",
+    "originalType": "饮品",
+    "category": "饮品酒水",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-37",
+    "name": "吹坎鸡杂馆",
+    "dish": "鸡杂",
+    "address": "龙湖时代天街",
+    "originalType": "鸡",
+    "category": "中餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-39",
+    "name": "和熟巴斯克蛋糕",
+    "dish": "巴斯克",
+    "address": "龙湖时代天街",
+    "originalType": "点心",
+    "category": "甜点小吃",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-40",
+    "name": "大巴扎新疆菜",
+    "dish": "",
+    "address": "龙湖时代天街",
+    "originalType": "中餐",
+    "category": "中餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-41",
+    "name": "鸡公小灶",
+    "dish": "现炒土鸡",
+    "address": "龙湖时代天街",
+    "originalType": "鸡",
+    "category": "中餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-42",
+    "name": "吉布鲁牛排海鲜自助",
+    "dish": "小龙虾限定",
+    "address": "龙湖时代天街、蜀新天街",
+    "originalType": "自助",
+    "category": "烤肉自助",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-43",
+    "name": "RiteBite瑞特贝特巴基斯坦餐厅",
+    "dish": "美团套餐",
+    "address": "龙湖时代天街",
+    "originalType": "快餐",
+    "category": "快餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-44",
+    "name": "滨寿司",
+    "dish": "",
+    "address": "龙湖时代天街",
+    "originalType": "寿司",
+    "category": "日韩料理",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-45",
+    "name": "小王鲜炒",
+    "dish": "yyds就是人多",
+    "address": "龙湖时代天街",
+    "originalType": "中餐",
+    "category": "中餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-46",
+    "name": "虾吃虾涮",
+    "dish": "美团套餐",
+    "address": "龙湖时代天街",
+    "originalType": "虾",
+    "category": "中餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-47",
+    "name": "铜调儿铜炉鸡锅",
+    "dish": "",
+    "address": "龙湖时代天街",
+    "originalType": "鸡",
+    "category": "中餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-48",
+    "name": "大湾金牌万州烤鱼",
+    "dish": "烤鱼",
+    "address": "龙湖时代天街",
+    "originalType": "鱼",
+    "category": "中餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-49",
+    "name": "周小鱼纸包鱼",
+    "dish": "烤鱼",
+    "address": "龙湖时代天街",
+    "originalType": "鱼",
+    "category": "中餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-50",
+    "name": "蛮涮自助小火锅",
+    "dish": "",
+    "address": "龙湖时代天街",
+    "originalType": "火锅",
+    "category": "火锅干锅",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-51",
+    "name": "寻味烤鱼",
+    "dish": "美团套餐",
+    "address": "龙湖时代天街",
+    "originalType": "鱼",
+    "category": "中餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-52",
+    "name": "李娘娘贵州烙锅",
+    "dish": "",
+    "address": "龙湖时代天街",
+    "originalType": "烙锅",
+    "category": "火锅干锅",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-53",
+    "name": "小厨味道",
+    "dish": "人多炒菜推荐",
+    "address": "龙湖时代天街",
+    "originalType": "中餐",
+    "category": "中餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-54",
+    "name": "山喜自助和牛涮涮锅",
+    "dish": "",
+    "address": "龙湖时代天街",
+    "originalType": "涮锅",
+    "category": "火锅干锅",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-55",
+    "name": "蜀砂锅",
+    "dish": "个人感觉狠辣",
+    "address": "龙湖时代天街",
+    "originalType": "中餐",
+    "category": "中餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-56",
+    "name": "猪大顺自助烤肉炸鸡",
+    "dish": "",
+    "address": "龙湖时代天街",
+    "originalType": "自助",
+    "category": "烤肉自助",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-57",
+    "name": "生火火自助烤肉",
+    "dish": "",
+    "address": "红高路地铁站附近",
+    "originalType": "自助",
+    "category": "烤肉自助",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-58",
+    "name": "尹珍珠自助烤肉",
+    "dish": "",
+    "address": "龙湖时代天街",
+    "originalType": "自助",
+    "category": "烤肉自助",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-60",
+    "name": "彩云南昭通天麻火鸡腿",
+    "dish": "云南菜",
+    "address": "龙湖时代天街",
+    "originalType": "中餐",
+    "category": "中餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-62",
+    "name": "乡之味道黑豆花草豆花汤锅",
+    "dish": "豆花",
+    "address": "电科南门",
+    "originalType": "豆花",
+    "category": "中餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-63",
+    "name": "茅歌水韵湖畔火锅",
+    "dish": "火锅",
+    "address": "电科南门",
+    "originalType": "火锅",
+    "category": "火锅干锅",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-65",
+    "name": "笨功夫火锅",
+    "dish": "火锅",
+    "address": "龙湖时代天街",
+    "originalType": "火锅",
+    "category": "火锅干锅",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-66",
+    "name": "sike拌面",
+    "dish": "小炒肉拌面、拌饭",
+    "address": "龙湖时代天街",
+    "originalType": "面",
+    "category": "面粉饺子",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-67",
+    "name": "有盐有味川菜馆",
+    "dish": "盖饭",
+    "address": "龙湖时代天街",
+    "originalType": "中餐",
+    "category": "中餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-68",
+    "name": "三米粥屋",
+    "dish": "粥(清淡)",
+    "address": "龙湖时代天街",
+    "originalType": "粥",
+    "category": "中餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-70",
+    "name": "川Q燃面馆",
+    "dish": "面",
+    "address": "龙湖时代天街",
+    "originalType": "面",
+    "category": "面粉饺子",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-73",
+    "name": "阿玥家牛腩面铺",
+    "dish": "牛腩面",
+    "address": "龙湖时代天街",
+    "originalType": "面",
+    "category": "面粉饺子",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-74",
+    "name": "斑马侠散酒铺",
+    "dish": "小青柠起泡酒、白葡萄酒",
+    "address": "龙湖时代天街",
+    "originalType": "酒",
+    "category": "饮品酒水",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-76",
+    "name": "重庆小面",
+    "dish": "重庆小面",
+    "address": "龙湖时代天街",
+    "originalType": "面",
+    "category": "面粉饺子",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-77",
+    "name": "天街快炒",
+    "dish": "炒菜",
+    "address": "龙湖时代天街",
+    "originalType": "中餐",
+    "category": "中餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-78",
+    "name": "猪杂粉",
+    "dish": "猪杂粉",
+    "address": "龙湖时代天街",
+    "originalType": "粉",
+    "category": "面粉饺子",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-79",
+    "name": "攀枝花盐边羊肉米线",
+    "dish": "羊肉米线",
+    "address": "龙湖时代天街",
+    "originalType": "米线",
+    "category": "面粉饺子",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-80",
+    "name": "东北水饺",
+    "dish": "",
+    "address": "龙湖时代天街",
+    "originalType": "饺子",
+    "category": "面粉饺子",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-81",
+    "name": "洪火锅重庆重口味火锅",
+    "dish": "火锅",
+    "address": "龙湖时代天街",
+    "originalType": "火锅",
+    "category": "火锅干锅",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-82",
+    "name": "新疆味道",
+    "dish": "馕",
+    "address": "龙湖时代天街",
+    "originalType": "中餐",
+    "category": "中餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-83",
+    "name": "关中老碗",
+    "dish": "肉夹馍、凉皮",
+    "address": "龙湖时代天街",
+    "originalType": "肉夹馍",
+    "category": "面粉饺子",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-84",
+    "name": "港记腊味饭",
+    "dish": "煲仔饭",
+    "address": "龙湖时代天街",
+    "originalType": "煲仔饭",
+    "category": "中餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-85",
+    "name": "点妈",
+    "dish": "",
+    "address": "龙湖时代天街",
+    "originalType": "饺子",
+    "category": "面粉饺子",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-86",
+    "name": "蜀味农家小炒",
+    "dish": "辣子鸡、牛腩豆花、西红柿炒鸡蛋",
+    "address": "龙湖时代天街",
+    "originalType": "中餐",
+    "category": "中餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-87",
+    "name": "钰善里",
+    "dish": "芝士火鸡面",
+    "address": "龙湖时代天街",
+    "originalType": "面",
+    "category": "面粉饺子",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-88",
+    "name": "斗鸣鸡公煲",
+    "dish": "鸡公煲",
+    "address": "龙湖时代天街",
+    "originalType": "鸡",
+    "category": "中餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-89",
+    "name": "大米先生",
+    "dish": "米饭自选",
+    "address": "龙湖时代天街",
+    "originalType": "中餐",
+    "category": "快餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-91",
+    "name": "姜胖胖烤肉自助",
+    "dish": "烤肉",
+    "address": "龙湖时代天街",
+    "originalType": "烤肉",
+    "category": "烤肉自助",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-92",
+    "name": "奈雪",
+    "dish": "霸气不加糖黑葡萄",
+    "address": "龙湖时代天街",
+    "originalType": "饮品",
+    "category": "饮品酒水",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-93",
+    "name": "茉莉奶白",
+    "dish": "茉莉奶白、针王苹果",
+    "address": "龙湖时代天街",
+    "originalType": "饮品",
+    "category": "饮品酒水",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-94",
+    "name": "爷爷不泡茶",
+    "dish": "空山栀子、咸宁桂花",
+    "address": "龙湖时代天街",
+    "originalType": "饮品",
+    "category": "饮品酒水",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-95",
+    "name": "正新鸡排",
+    "dish": "",
+    "address": "龙湖时代天街",
+    "originalType": "鸡",
+    "category": "快餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-96",
+    "name": "泸溪河",
+    "dish": "绿豆饼、老面包、绿豆冰糕",
+    "address": "龙湖时代天街",
+    "originalType": "点心",
+    "category": "甜点小吃",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-97",
+    "name": "秦味和面馆",
+    "dish": "bingbing面",
+    "address": "红高路地铁站附近",
+    "originalType": "面",
+    "category": "面粉饺子",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-98",
+    "name": "树夏",
+    "dish": "羽衣甘蓝、鲜草莓大福厚牛乳",
+    "address": "龙湖时代天街",
+    "originalType": "饮品",
+    "category": "饮品酒水",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-100",
+    "name": "沙县小吃",
+    "dish": "",
+    "address": "龙湖时代天街",
+    "originalType": "中餐",
+    "category": "快餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-101",
+    "name": "于大叔石锅饭",
+    "dish": "小酥肉石锅饭",
+    "address": "龙湖时代天街",
+    "originalType": "石锅饭",
+    "category": "中餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-103",
+    "name": "小煲贝",
+    "dish": "煲仔饭",
+    "address": "电科南门",
+    "originalType": "煲仔饭",
+    "category": "中餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-105",
+    "name": "山西刀削面",
+    "dish": "大盘鸡",
+    "address": "电科南门",
+    "originalType": "面",
+    "category": "面粉饺子",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-107",
+    "name": "食一锅鲍汁肥牛鸡",
+    "dish": "肥牛盖饭(好像夏天送冰粉)",
+    "address": "电科南门",
+    "originalType": "中餐",
+    "category": "中餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-108",
+    "name": "馄饨大王",
+    "dish": "干拌馄饨",
+    "address": "电科南门社区",
+    "originalType": "馄饨",
+    "category": "面粉饺子",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-110",
+    "name": "霸王茶姬",
+    "dish": "都不赖",
+    "address": "龙湖时代天街",
+    "originalType": "饮品",
+    "category": "饮品酒水",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-111",
+    "name": "蜜雪冰城",
+    "dish": "都不赖",
+    "address": "龙湖时代天街",
+    "originalType": "饮品",
+    "category": "饮品酒水",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-113",
+    "name": "喜茶",
+    "dish": "奇兰苹果杏、牦牛什么奶茶",
+    "address": "龙湖时代天街",
+    "originalType": "饮品",
+    "category": "饮品酒水",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-114",
+    "name": "绿茶餐厅",
+    "dish": "",
+    "address": "龙湖时代天街",
+    "originalType": "中餐",
+    "category": "中餐",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-115",
+    "name": "稽炙牛现切烤肉自助",
+    "dish": "",
+    "address": "龙湖时代天街",
+    "originalType": "自助",
+    "category": "烤肉自助",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-117",
+    "name": "爱达乐",
+    "dish": "藤椒鸡排三明治、奶皮子吐司、月饼",
+    "address": "电科商业级",
+    "originalType": "点心",
+    "category": "甜点小吃",
+    "liked": false,
+    "enabled": true
+  },
+  {
+    "id": "sheet-118",
+    "name": "好利来",
+    "dish": "泡芙、半熟芝士、提子拿破仑",
+    "address": "龙湖时代天街",
+    "originalType": "点心",
+    "category": "甜点小吃",
+    "liked": false,
+    "enabled": true
+  }
+]

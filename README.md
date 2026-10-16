@@ -1,2 +1,38 @@
-# UESTC_Canteen
-今天吃什么
+# 今天吃点啥 · UESTC Canteen
+
+基于 canteen.xlsx 整理的 96 家电子科技大学周边饭店，按 9 类菜式抽签。支持添加与编辑饭店、点赞、按日期记录午餐和晚餐、查询历史与用餐次数、导出及导入 JSON 备份。
+
+## 发布到 GitHub Pages
+
+这个仓库已经包含编译好的网页，首次发布无需安装开发工具：
+
+1. 打开仓库 **Settings → Pages**。
+2. Source 选择 **Deploy from a branch**。
+3. Branch 选择 **main**，目录选择 **/ (root)**，点击 **Save**。
+4. 等待 GitHub 的 Pages 部署完成，访问 <https://blahorse.github.io/UESTC_Canteen/>。
+
+访客不需要 GitHub 账号。GitHub Pages 在各地区的网络可达性取决于实际网络条件，此部署不保证中国大陆全部运营商始终可用。
+
+## 数据与隐私
+
+- 纯静态网页，没有登录、后台服务、远程数据库、外部字体或 CDN 运行时依赖。
+- 每位访客的饭店改动、点赞和日记仅保存在其当前浏览器的 localStorage，不会上传到 GitHub，也不会与其他访客共享。
+- 清除网站数据、无痕浏览或更换设备会导致记录无法自动找回。请在 **用餐日记 → 导出备份** 定期备份；用 **导入备份** 恢复。
+- 支持导入此前 Sites 版本导出的 JSON；导入前会校验，并在替换当前记录前要求确认。
+- 原网站已有数据不会自动迁移，需要在原网站导出后导入这里。
+- 首次联网打开后可添加至主屏幕，并支持离线抽签和记餐。安装入口受浏览器支持情况影响。
+
+## 修改与构建
+
+使用 Node.js 22 或更新版本：
+
+```sh
+npm install
+npm run build
+```
+
+`src/` 是源代码；构建生成 `assets/app.js` 和 `assets/app.css`。修改后需一并提交生成文件。饭店初始清单在 `src/seed.json`；已有浏览器中的饭店不会被更新自动覆盖。
+
+`index.html`、安装清单和 service worker 都使用相对路径，支持仓库子目录部署。更新离线缓存策略时请递增 `sw.js` 中的缓存版本。
+
+使用 React、React DOM、Lucide 和 esbuild。各依赖版权与许可证见构建产物和对应上游包。

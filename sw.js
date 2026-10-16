@@ -1,0 +1,7 @@
+const CACHE='uestc-canteen-static-v1';
+const BASE=new URL('./',self.location.href);
+const FILES=['./','./index.html','./assets/app.js','./assets/app.css','./manifest.webmanifest','./assets/icon-192.png','./assets/icon-512.png','./assets/icon-maskable.png'];
+self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(FILES)).then(()=>self.skipWaiting())));
+self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('uestc-canteen-static-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
+async function offline(request){const cache=await caches.open(CACHE);const response=await cache.match(request)||(request.mode==='navigate'?await cache.match(new URL('./',BASE)):null);if(!response)return Response.error();const headers=new Headers(response.headers);headers.delete('Content-Encoding');headers.delete('Transfer-Encoding');headers.delete('Content-Length');return new Response(await response.arrayBuffer(),{status:response.status,headers})}
+self.addEventListener('fetch',e=>{const u=new URL(e.request.url);if(e.request.method!=='GET'||u.origin!==BASE.origin||!u.pathname.startsWith(BASE.pathname))return;e.respondWith(fetch(e.request).then(response=>{if(response.ok){const copy=response.clone();e.waitUntil(caches.open(CACHE).then(c=>c.put(e.request,copy)))}return response}).catch(()=>offline(e.request)))});
